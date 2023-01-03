@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is my week 1 example of a GitHub repository.
+This is my week 1 example of a GitHub repository. Maybe?
